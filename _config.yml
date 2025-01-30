@@ -22,7 +22,7 @@ title: Roomkey Deep Dream Art
 description: >- # this means to ignore newlines until "baseurl:"
   These art pieces were created as part of a hack-a-thon at Roomkey. The art was created using a combination of multiple passes through the 
   Deep Dream Generator and then final tweaking in Photoshop.
-baseurl: "/a-frame-art-gallery" # the subpath of your site, e.g. /blog
+baseurl: "/VRGalleryNick"  # Make sure this matches your repository name
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  AgentO3
