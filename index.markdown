@@ -8,6 +8,7 @@ layout: rooms
     {% for room in rooms %}
     <a-box
      class="link" 
+     position="0 4.5 0"
      rotation="0 90 0"
      link="href: {{ '/' | relative_url }}rooms/{{ room.title | downcase | replace: ' ', '-' }}; 
      title:{{ room.title }};"
